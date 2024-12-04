@@ -4,7 +4,8 @@
   "description": "This is a node.js and express.js comprehensive tutorial",
   "main": "1.intro.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
